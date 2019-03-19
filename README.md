@@ -1,6 +1,6 @@
 # Face-Anti-spoofing
 
-depend on pytorch1.0  and fastai
+depend on pytorch 1.0.1 and fastai 1.0.43
 
 source code files:
 
